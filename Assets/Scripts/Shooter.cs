@@ -13,7 +13,6 @@ public class Shooter : MonoBehaviour
     public GameObject[] candyPrefabs;
     public Transform candyParentTransform;
     public CandyManager candyManager;
-    public GameObject candyPrefab;
     public float shotForce;
     public float shotTorque;
     public float baseWidth;
